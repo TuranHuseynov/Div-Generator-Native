@@ -1,0 +1,28 @@
+#first{
+	text-align: center;
+}
+
+button{
+    background: red;
+    padding: 10px 30px;
+    color: snow;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+#yenirow{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px auto;
+	float: left;
+
+	
+}
+.wrappern{
+	height: 100px;
+	border: 1px solid #555;
+
+}
